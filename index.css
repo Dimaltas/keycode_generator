@@ -1,0 +1,30 @@
+.press{
+    display: flex;
+    justify-content: center;
+    font-size: 200%;
+}
+.textBox{
+    display: flex;
+    justify-content: center;
+    font-size: 150%;
+}
+#userInput{
+    display: flex;
+    justify-content: center;
+    font-size: 150%;
+}
+/* #eventKey{
+    display: flex;
+    justify-content: center;
+    font-size: 150%;
+} */
+/* #eventCode{
+    display: flex;
+    justify-content: center;
+    font-size: 150%;
+}
+#eventWhich{
+    display: flex;
+    justify-content: center;
+    font-size: 150%;
+} */
